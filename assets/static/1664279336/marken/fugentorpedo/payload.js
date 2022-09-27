@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/fugentorpedo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fugentorpedo-reinigungswerkzeug-basis-set-3-tlg-fugentorpedo-4388401-1.jpg":"\u002Fassets\u002Fimages\u002Ffugentorpedo-reinigungswerkzeug-basis-set-3-tlg-fugentorpedo-4388401-1.webp"}}],fetch:{},mutations:void 0});

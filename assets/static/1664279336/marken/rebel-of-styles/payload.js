@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/rebel-of-styles", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rebel-of-styles-spezialkleber-adhesive-290-ml-rebel-of-styles-3517315-1.jpg":"\u002Fassets\u002Fimages\u002Frebel-of-styles-spezialkleber-adhesive-290-ml-rebel-of-styles-3517315-1.webp"}}],fetch:{},mutations:void 0});

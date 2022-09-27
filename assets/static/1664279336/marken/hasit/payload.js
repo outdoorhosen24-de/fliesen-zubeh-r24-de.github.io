@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/hasit", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/hasit-ag-650-flex-s1-duennbett-flexkleber-25-kg-hasit-4371530-1.jpg":"\u002Fassets\u002Fimages\u002Fhasit-ag-650-flex-s1-duennbett-flexkleber-25-kg-hasit-4371530-1.webp"}}],fetch:{},mutations:void 0});
