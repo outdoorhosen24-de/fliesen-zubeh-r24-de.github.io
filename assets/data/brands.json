@@ -1,59 +1,10 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
-        "key": "sonstige",
-        "name": "Sonstige",
-        "slug": "sonstige",
-        "productCategory": "Sonstige",
-        "localThumb": "/assets/images/hersteller/sonstige.webp"
-    },
-    {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
-    },
-    {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
-    },
-    {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
-    },
-    {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "soudal",
+        "name": "Soudal",
+        "slug": "soudal",
+        "productCategory": "Soudal",
+        "localThumb": "/assets/images/hersteller/soudal.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +14,150 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "obi",
+        "name": "OBI",
+        "slug": "obi",
+        "productCategory": "OBI",
+        "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "knauf",
+        "name": "Knauf",
+        "slug": "knauf",
+        "productCategory": "Knauf",
+        "localThumb": "/assets/images/hersteller/knauf.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "pci",
+        "name": "PCI",
+        "slug": "pci",
+        "productCategory": "PCI",
+        "localThumb": "/assets/images/hersteller/pci.webp"
+    },
+    {
+        "key": "pattex",
+        "name": "Pattex",
+        "slug": "pattex",
+        "productCategory": "Pattex",
+        "localThumb": "/assets/images/hersteller/pattex.webp"
+    },
+    {
+        "key": "sonstige",
+        "name": "Sonstige",
+        "slug": "sonstige",
+        "productCategory": "Sonstige",
+        "localThumb": "/assets/images/hersteller/sonstige.webp"
+    },
+    {
+        "key": "arcansas",
+        "name": "Arcansas",
+        "slug": "arcansas",
+        "productCategory": "Arcansas",
+        "localThumb": "/assets/images/hersteller/arcansas.webp"
+    },
+    {
+        "key": "saint-gobain weber",
+        "name": "Saint-Gobain Weber",
+        "slug": "saint-gobain-weber",
+        "productCategory": "Saint-Gobain Weber",
+        "localThumb": "/assets/images/hersteller/saint-gobain-weber.webp"
+    },
+    {
+        "key": "molto",
+        "name": "Molto",
+        "slug": "molto",
+        "productCategory": "Molto",
+        "localThumb": "/assets/images/hersteller/molto.webp"
+    },
+    {
+        "key": "metylan",
+        "name": "Metylan",
+        "slug": "metylan",
+        "productCategory": "Metylan",
+        "localThumb": "/assets/images/hersteller/metylan.webp"
+    },
+    {
+        "key": "sista",
+        "name": "Sista",
+        "slug": "sista",
+        "productCategory": "Sista",
+        "localThumb": "/assets/images/hersteller/sista.webp"
+    },
+    {
+        "key": "lugato",
+        "name": "Lugato",
+        "slug": "lugato",
+        "productCategory": "Lugato",
+        "localThumb": "/assets/images/hersteller/lugato.webp"
+    },
+    {
+        "key": "fugentorpedo",
+        "name": "Fugentorpedo",
+        "slug": "fugentorpedo",
+        "productCategory": "Fugentorpedo",
+        "localThumb": "/assets/images/hersteller/fugentorpedo.webp"
+    },
+    {
+        "key": "rebel of styles",
+        "name": "Rebel of Styles",
+        "slug": "rebel-of-styles",
+        "productCategory": "Rebel of Styles",
+        "localThumb": "/assets/images/hersteller/rebel-of-styles.webp"
+    },
+    {
+        "key": "fuchs design",
+        "name": "Fuchs Design",
+        "slug": "fuchs-design",
+        "productCategory": "Fuchs Design",
+        "localThumb": "/assets/images/hersteller/fuchs-design.webp"
+    },
+    {
+        "key": "elabrick",
+        "name": "Elabrick",
+        "slug": "elabrick",
+        "productCategory": "Elabrick",
+        "localThumb": "/assets/images/hersteller/elabrick.webp"
+    },
+    {
+        "key": "quick mix",
+        "name": "Quick Mix",
+        "slug": "quick-mix",
+        "productCategory": "Quick Mix",
+        "localThumb": "/assets/images/hersteller/quick-mix.webp"
+    },
+    {
+        "key": "ultrament",
+        "name": "Ultrament",
+        "slug": "ultrament",
+        "productCategory": "Ultrament",
+        "localThumb": "/assets/images/hersteller/ultrament.webp"
+    },
+    {
+        "key": "sakret",
+        "name": "Sakret",
+        "slug": "sakret",
+        "productCategory": "Sakret",
+        "localThumb": "/assets/images/hersteller/sakret.webp"
+    },
+    {
+        "key": "mapei",
+        "name": "Mapei",
+        "slug": "mapei",
+        "productCategory": "Mapei",
+        "localThumb": "/assets/images/hersteller/mapei.webp"
+    },
+    {
+        "key": "kreisel",
+        "name": "Kreisel",
+        "slug": "kreisel",
+        "productCategory": "Kreisel",
+        "localThumb": "/assets/images/hersteller/kreisel.webp"
+    },
+    {
+        "key": "hasit",
+        "name": "Hasit",
+        "slug": "hasit",
+        "productCategory": "Hasit",
+        "localThumb": "/assets/images/hersteller/hasit.webp"
     }
 ]
