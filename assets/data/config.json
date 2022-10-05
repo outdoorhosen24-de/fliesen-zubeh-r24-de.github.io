@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "fliesen-zubeh\u00f6r24.de",
+    "hostname": "https://www.fliesen-zubeh\u00f6r24.de/",
+    "email": "fliesen-zubeh\u00f6r24.desurrealnetworks.io",
+    "organization": "fliesen-zubeh\u00f6r24.de",
+    "logoText": "Fliesen-zubeh\u00f6r24.de",
+    "title": "Fliesenzubeh\u00f6r",
+    "subline": "Der Online Shop f\u00fcr Fliesenzubeh\u00f6r",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3955283",
+        "1892728",
+        "8756470",
+        "3945573",
+        "4822490",
+        "1765320"
+    ],
+    "winnerProducts": [
+        "1892835",
+        "8215519",
+        "8216103"
+    ],
+    "featuredCategories": [
+        "Fliesenschienen",
+        "Silikon & Acryl",
+        "Fliesenschienen",
+        "Fugenmassen",
+        "Weiteres Fliesenzubeh\u00f6r",
+        "Fliesenschienen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fliesenzubeh\u00f6r",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr die Verlegung und den Unterhalt Ihrer Fliesen ben\u00f6tigen. Wir f\u00fchren hochwertige Fliesen und Zubeh\u00f6r von namhaften Herstellern und bieten Ihnen eine kompetente Beratung.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Fliesenzubeh\u00f6r: Alles f\u00fcr Ihr Zuhause",
+            "metaDescription": "Fliesenzubeh\u00f6r - Alles f\u00fcr Ihr Zuhause. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigem Fliesenzubeh\u00f6r.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Fliesenzubeh\u00f6r: Alles f\u00fcr Ihr Zuhause",
+                    "text": "Fliesenzubeh\u00f6r ist ein wesentlicher Bestandteil der Fliesenindustrie. Es gibt viele verschiedene Arten von Fliesenzubeh\u00f6r, die f\u00fcr verschiedene Zwecke verwendet werden. Die h\u00e4ufigsten Arten von Fliesenzubeh\u00f6r sind:\n\n- Fliesenreiniger\n- Fliesenkleber\n- Fliesenschneider\n- Fliesenbohrer\n- Fliesenpolierer\n\nFliesenreiniger sind spezielle Reinigungsmittel, die entwickelt wurden, um Fliesen und Fugen sauber zu halten. Sie entfernen Schmutz, Fett und andere Verunreinigungen von Fliesen und Fugen, ohne die Oberfl\u00e4che zu besch\u00e4digen.\n\nFliesenkleber wird verwendet, um Fliesen an W\u00e4nden, B\u00f6den und anderen Oberfl\u00e4chen zu befestigen. Kleber gibt es in verschiedenen Ausf\u00fchrungen, je nachdem, welche Art von Oberfl\u00e4che Sie verkleben m\u00f6chten.\n\nFliesenschneider sind Werkzeuge, die verwendet werden, um Fliesen in verschiedene Formen und Gr\u00f6\u00dfen zu schneiden. Sie sind in der Regel mit einer Klinge ausgestattet, die entweder manuell oder elektrisch betrieben wird.\n\nFliesenbohrer sind Werkzeuge, die verwendet werden, um L\u00f6cher in Fliesen zu bohren. Bohrer gibt es in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen, je nachdem, welche Art von Loch Sie bohren m\u00f6chten.\n\nFliesenpolierer sind Werkzeuge, die verwendet werden, um die Oberfl\u00e4che von Fliesen zu polieren. Pol"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fliesenzubeh\u00f6r-Shop: Alles f\u00fcr Ihr Zuhause",
+            "metaDescription": "Der Fliesenzubeh\u00f6r Shop bietet alles, was man f\u00fcr die Verlegung und den Unterhalt von Fliesen ben\u00f6tigt.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fliesenzubeh\u00f6r-Hersteller",
+            "metaDescription": "Fliesenzubeh\u00f6r - Finden Sie hier die passenden Produkte f\u00fcr Ihr Zuhause. Vom kleinen Zubeh\u00f6r bis hin zum gro\u00dfen fliesenlegerbedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Fliesenzubeh\u00f6r - $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Fliesenzubeh\u00f6r f\u00fcr Ihr Zuhause. $KATEGORIE. Jetzt kaufen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Fliesenzubeh\u00f6r f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "Fliesenzubeh\u00f6r f\u00fcr Ihr Zuhause. Finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen, von $KATEGORIE bis hin zu Werkzeugen und Zubeh\u00f6r.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Fliesenzubeh\u00f6r. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Fliesenzubeh\u00f6r",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Fliesenzubeh\u00f6r Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Fliesenzubeh\u00f6r Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
