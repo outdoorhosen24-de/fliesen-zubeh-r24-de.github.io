@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/mapei", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/parkettkleber-ultrabon-eco-s948-1k-mapei-1888981-1.jpg":"\u002Fassets\u002Fimages\u002Fparkettkleber-ultrabon-eco-s948-1k-mapei-1888981-1.webp"}}],fetch:{},mutations:void 0});

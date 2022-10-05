@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/molto", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/molto-silikon-entferner-125-ml-molto-5799911-1.jpg":"\u002Fassets\u002Fimages\u002Fmolto-silikon-entferner-125-ml-molto-5799911-1.webp"}}],fetch:{},mutations:void 0});

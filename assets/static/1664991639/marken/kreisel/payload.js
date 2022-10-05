@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/kreisel", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/koba-bau-und-fliesenkleber-grau-25-kg-kreisel-1780527-1.jpg":"\u002Fassets\u002Fimages\u002Fkoba-bau-und-fliesenkleber-grau-25-kg-kreisel-1780527-1.webp"}}],fetch:{},mutations:void 0});
