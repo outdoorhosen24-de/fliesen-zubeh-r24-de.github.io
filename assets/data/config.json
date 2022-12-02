@@ -51,12 +51,15 @@
             "title": "Fliesenzubehör: Alles für Ihr Zuhause",
             "metaDescription": "Fliesenzubehör - Alles für Ihr Zuhause. Wir bieten Ihnen eine große Auswahl an hochwertigem Fliesenzubehör.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Fliesenzubehör: Alles für Ihr Zuhause",
-                    "text": "Fliesenzubehör ist ein wesentlicher Bestandteil der Fliesenindustrie. Es gibt viele verschiedene Arten von Fliesenzubehör, die für verschiedene Zwecke verwendet werden. Die häufigsten Arten von Fliesenzubehör sind:\n\n- Fliesenreiniger\n- Fliesenkleber\n- Fliesenschneider\n- Fliesenbohrer\n- Fliesenpolierer\n\nFliesenreiniger sind spezielle Reinigungsmittel, die entwickelt wurden, um Fliesen und Fugen sauber zu halten. Sie entfernen Schmutz, Fett und andere Verunreinigungen von Fliesen und Fugen, ohne die Oberfläche zu beschädigen.\n\nFliesenkleber wird verwendet, um Fliesen an Wänden, Böden und anderen Oberflächen zu befestigen. Kleber gibt es in verschiedenen Ausführungen, je nachdem, welche Art von Oberfläche Sie verkleben möchten.\n\nFliesenschneider sind Werkzeuge, die verwendet werden, um Fliesen in verschiedene Formen und Größen zu schneiden. Sie sind in der Regel mit einer Klinge ausgestattet, die entweder manuell oder elektrisch betrieben wird.\n\nFliesenbohrer sind Werkzeuge, die verwendet werden, um Löcher in Fliesen zu bohren. Bohrer gibt es in verschiedenen Größen und Ausführungen, je nachdem, welche Art von Loch Sie bohren möchten.\n\nFliesenpolierer sind Werkzeuge, die verwendet werden, um die Oberfläche von Fliesen zu polieren. Pol"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Fliesenzubehör: Alles für Ihr Zuhause",
+                        "text": "Fliesenzubehör ist ein wesentlicher Bestandteil der Fliesenindustrie. Es gibt viele verschiedene Arten von Fliesenzubehör, die für verschiedene Zwecke verwendet werden. Die häufigsten Arten von Fliesenzubehör sind:\n\n- Fliesenreiniger\n- Fliesenkleber\n- Fliesenschneider\n- Fliesenbohrer\n- Fliesenpolierer\n\nFliesenreiniger sind spezielle Reinigungsmittel, die entwickelt wurden, um Fliesen und Fugen sauber zu halten. Sie entfernen Schmutz, Fett und andere Verunreinigungen von Fliesen und Fugen, ohne die Oberfläche zu beschädigen.\n\nFliesenkleber wird verwendet, um Fliesen an Wänden, Böden und anderen Oberflächen zu befestigen. Kleber gibt es in verschiedenen Ausführungen, je nachdem, welche Art von Oberfläche Sie verkleben möchten.\n\nFliesenschneider sind Werkzeuge, die verwendet werden, um Fliesen in verschiedene Formen und Größen zu schneiden. Sie sind in der Regel mit einer Klinge ausgestattet, die entweder manuell oder elektrisch betrieben wird.\n\nFliesenbohrer sind Werkzeuge, die verwendet werden, um Löcher in Fliesen zu bohren. Bohrer gibt es in verschiedenen Größen und Ausführungen, je nachdem, welche Art von Loch Sie bohren möchten.\n\nFliesenpolierer sind Werkzeuge, die verwendet werden, um die Oberfläche von Fliesen zu polieren. Pol"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Fliesenzubehör-Shop: Alles für Ihr Zuhause",
