@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "fliesen-zubehör24.de",
     "hostname": "https://www.fliesen-zubehör24.de/",
     "email": "fliesen-zubehör24.de@surrealnetworks.io",
     "organization": "fliesen-zubehör24.de",
     "logoText": "Fliesen-zubehör24.de",
     "title": "Fliesenzubehör",
-    "subline": "Der Online Shop für Fliesenzubehör",
+    "subline": "Wir sind Ihr Online Shop für Fliesenzubehör",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fliesenzubehör",
-        "featureText": "In unserem Shop finden Sie alles, was Sie für die Verlegung und den Unterhalt Ihrer Fliesen benötigen. Wir führen hochwertige Fliesen und Zubehör von namhaften Herstellern und bieten Ihnen eine kompetente Beratung.",
+        "featureText": "Willkommen in unserem Fliesenzubehör-Shop! Bei uns finden Sie alles, was bei der Verarbeitung von Fliesen hilft. Ob Fliesenkleber, Silikon Fugenmassen, Fliesenschienen - bei uns erhältlich. Klicken Sie sich durch unser Sortiment und finden Sie die passenden Produkte. Für ein sauberes Endergebnis in ihrem neuen Zuhause!",
         "index": {
-            "title": "Fliesenzubehör: Alles für Ihr Zuhause",
-            "metaDescription": "Fliesenzubehör - Alles für Ihr Zuhause. Wir bieten Ihnen eine große Auswahl an hochwertigem Fliesenzubehör.",
+            "title": "Fliesenzubehör: Für ein schönes Ergebnis",
+            "metaDescription": "Bei uns erhältlich! Fliesenzubehör wie: Fliesenkleber, Silikon & Acryl, Fugenmassen, Fliesenschienen und weiteres Zubehör | Einfach günstig bestellen",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Fliesenzubehör-Shop: Alles für Ihr Zuhause",
-            "metaDescription": "Der Fliesenzubehör Shop bietet alles, was man für die Verlegung und den Unterhalt von Fliesen benötigt.",
+            "title": "Ihr Shop für Fliesenzubehör",
+            "metaDescription": "In unserem Shop Fliesenzubehör für jeden Arbeitsschritt! | Fliesenkleber, Silikon, Fugenmassen uvm. | Einfache Produktsuche | Günstige Preise",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Fliesenzubehör-Hersteller",
-            "metaDescription": "Fliesenzubehör - Finden Sie hier die passenden Produkte für Ihr Zuhause. Vom kleinen Zubehör bis hin zum großen fliesenlegerbedarf.",
+            "title": "Fliesenzubehör - Die besten Marken ",
+            "metaDescription": "Top Herstller für Fliesenzubehör bei uns im Shop! | Knauf, Pattex, Lugato, Metylan, Molto, Sista uvm. | Überzeugen Sie sich von der Qualität unserer Produkte!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Fliesenzubehör - $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Fliesenzubehör für Ihr Zuhause. $KATEGORIE. Jetzt kaufen!",
+        "defaultTitle": "$PRODUKT | Fliesenzubehör",
+        "defaultMetaDescription": "$PRODUKT von der Marke $HERSTELLER | Bei uns erhätlich | Günstige Preise | Finden Sie weitere hochwertige Produkte aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Fliesenzubehör für $KATEGORIE",
-        "defaultMetaDescription": "Fliesenzubehör für Ihr Zuhause. Finden Sie alles, was Sie für Ihr Zuhause brauchen, von $KATEGORIE bis hin zu Werkzeugen und Zubehör.",
+        "defaultTitle": "$KATEGORIE - eine große Auswahl",
+        "defaultMetaDescription": "Fliesenzubehör für jeden Arbeitsschritt! | Finden Sie hochwertige Produkte aus der Kategorie $KATEGORIE bei uns im Shop!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Fliesenzubehör. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultTitle": "$HERSTELLER - Die Marke steht für Qualität ",
+        "defaultMetaDescription": "$HERSTELLER ist Spezialist für Fliesenzubehör. Finden Sie viele hochwertige Produkte in unserem Shop! | Kaufen Sie günstig | Schnelle Lieferung",
         "defaultRobots": "index, follow",
         "brands": [
             {
