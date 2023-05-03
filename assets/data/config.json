@@ -1,12 +1,12 @@
 {
   "configIsReady": true,
-  "domain": "fliesen-zubeh\u00f6r24.de",
-  "hostname": "https://www.fliesen-zubeh\u00f6r24.de/",
-  "email": "fliesen-zubeh\u00f6r24.de@surrealnetworks.io",
-  "organization": "fliesen-zubeh\u00f6r24.de",
-  "logoText": "Fliesen-zubeh\u00f6r24.de",
-  "title": "Fliesenzubeh\u00f6r",
-  "subline": "Wir sind Ihr Online Shop f\u00fcr Fliesenzubeh\u00f6r",
+  "domain": "fliesen-zubehör24.de",
+  "hostname": "https://www.fliesen-zubehör24.de/",
+  "email": "fliesen-zubehör24.de@surrealnetworks.io",
+  "organization": "fliesen-zubehör24.de",
+  "logoText": "Fliesen-zubehör24.de",
+  "title": "Fliesenzubehör",
+  "subline": "Wir sind Ihr Online Shop für Fliesenzubehör",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -32,7 +32,7 @@
     "Silikon & Acryl",
     "Fliesenschienen",
     "Fugenmassen",
-    "Weiteres Fliesenzubeh\u00f6r",
+    "Weiteres Fliesenzubehör",
     "Fliesenschienen"
   ],
   "socialMediaAccounts": [],
@@ -45,72 +45,105 @@
   ],
   "seo": {
     "htmlLang": "de",
-    "mainKeyword": "Fliesenzubeh\u00f6r",
-    "featureText": "Willkommen in unserem Fliesenzubeh\u00f6r-Shop! Bei uns finden Sie alles, was bei der Verarbeitung von Fliesen hilft. Ob Fliesenkleber, Silikon Fugenmassen, Fliesenschienen - bei uns erh\u00e4ltlich. Klicken Sie sich durch unser Sortiment und finden Sie die passenden Produkte. F\u00fcr ein sauberes Endergebnis in ihrem neuen Zuhause!",
+    "mainKeyword": "Fliesenzubehör",
+    "featureText": "Willkommen in unserem Fliesenzubehör-Shop! Bei uns finden Sie alles, was bei der Verarbeitung von Fliesen hilft. Ob Fliesenkleber, Silikon Fugenmassen, Fliesenschienen - bei uns erhältlich. Klicken Sie sich durch unser Sortiment und finden Sie die passenden Produkte. Für ein sauberes Endergebnis in ihrem neuen Zuhause!",
     "index": {
-      "title": "Fliesenzubeh\u00f6r: F\u00fcr ein sch\u00f6nes Ergebnis",
-      "metaDescription": "Bei uns erh\u00e4ltlich! Fliesenzubeh\u00f6r wie: Fliesenkleber, Silikon & Acryl, Fugenmassen, Fliesenschienen und weiteres Zubeh\u00f6r | Einfach g\u00fcnstig bestellen",
+      "title": "Fliesenzubehör: Für ein schönes Ergebnis",
+      "metaDescription": "Bei uns erhältlich! Fliesenzubehör wie: Fliesenkleber, Silikon & Acryl, Fugenmassen, Fliesenschienen und weiteres Zubehör | Einfach günstig bestellen",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei Fliesen-Zubeh\u00f6r24",
-            "text": "Herzlich Willkommen bei Fliesen-Zubeh\u00f6r24, Ihrem Online-Shop f\u00fcr hochwertige Fliesenzubeh\u00f6r-Produkte. Wir bieten Ihnen eine breite Auswahl an Silikon & Acryl, Fliesenkleber, Fugenmassen, Weiteres Fliesenzubeh\u00f6r und Fliesenschienen. Unsere Produkte sind von h\u00f6chster Qualit\u00e4t und bieten Ihnen eine perfekte L\u00f6sung f\u00fcr Ihre Fliesenprojekte. St\u00f6bern Sie durch unsere Kategorien und finden Sie das perfekte Zubeh\u00f6r f\u00fcr Ihr n\u00e4chstes Bauprojekt. Bestellen Sie noch heute bequem online bei Fliesen-Zubeh\u00f6r24."
+            "title": "Willkommen bei Fliesen-Zubehör24",
+            "text": "Herzlich Willkommen bei Fliesen-Zubehör24, Ihrem Online-Shop für hochwertige Fliesenzubehör-Produkte. Wir bieten Ihnen eine breite Auswahl an Silikon & Acryl, Fliesenkleber, Fugenmassen, Weiteres Fliesenzubehör und Fliesenschienen. Unsere Produkte sind von höchster Qualität und bieten Ihnen eine perfekte Lösung für Ihre Fliesenprojekte. Stöbern Sie durch unsere Kategorien und finden Sie das perfekte Zubehör für Ihr nächstes Bauprojekt. Bestellen Sie noch heute bequem online bei Fliesen-Zubehör24."
           },
           {
             "title": "Silikon & Acryl",
-            "text": "<a href=\"/kategorie/silikon-acryl/\" title=\"Silikon & Acryl\">Silikon & Acryl</a> - das unverzichtbare Fliesenzubeh\u00f6r f\u00fcr Ihr Bad. In unserem Online-Shop finden Sie hochwertige und langlebige Produkte f\u00fcr Ihre Fliesenarbeiten. Von Silikon f\u00fcr die Abdichtung von Fugen bis hin zu Acryl f\u00fcr die Verfugung von Natursteinfliesen, wir haben alles, was Sie f\u00fcr Ihre Renovierungsarbeiten ben\u00f6tigen. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl und bestellen Sie noch heute Ihr neues Silikon & Acryl."
+            "text": "<a href=\"/kategorie/silikon-acryl/\" title=\"Silikon & Acryl\">Silikon & Acryl</a> - das unverzichtbare Fliesenzubehör für Ihr Bad. In unserem Online-Shop finden Sie hochwertige und langlebige Produkte für Ihre Fliesenarbeiten. Von Silikon für die Abdichtung von Fugen bis hin zu Acryl für die Verfugung von Natursteinfliesen, wir haben alles, was Sie für Ihre Renovierungsarbeiten benötigen. Überzeugen Sie sich selbst von unserer großen Auswahl und bestellen Sie noch heute Ihr neues Silikon & Acryl."
           },
           {
             "title": "Fliesenkleber",
-            "text": "<a href=\"/kategorie/fliesenkleber/\" title=\"Fliesenkleber\">Fliesenkleber</a> - die Grundlage f\u00fcr jede Fliesenverlegung. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an hochwertigen Fliesenklebern f\u00fcr alle Arten von Fliesen, egal ob f\u00fcr Wand- oder Bodenfliesen. Wir bieten Ihnen sowohl feuchtigkeitsbest\u00e4ndige als auch schnelltrocknende Kleber f\u00fcr eine sichere und langlebige Verlegung Ihrer Fliesen. \u00dcberzeugen Sie sich von unserer Qualit\u00e4t und bestellen Sie noch heute Ihren neuen Fliesenkleber."
+            "text": "<a href=\"/kategorie/fliesenkleber/\" title=\"Fliesenkleber\">Fliesenkleber</a> - die Grundlage für jede Fliesenverlegung. In unserem Online-Shop finden Sie eine große Auswahl an hochwertigen Fliesenklebern für alle Arten von Fliesen, egal ob für Wand- oder Bodenfliesen. Wir bieten Ihnen sowohl feuchtigkeitsbeständige als auch schnelltrocknende Kleber für eine sichere und langlebige Verlegung Ihrer Fliesen. Überzeugen Sie sich von unserer Qualität und bestellen Sie noch heute Ihren neuen Fliesenkleber."
           },
           {
             "title": "Fugenmassen",
-            "text": "<a href=\"/kategorie/fugenmassen/\" title=\"Fugenmassen\">Fugenmassen</a> - das i-T\u00fcpfelchen f\u00fcr Ihre Fliesen. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an hochwertigen Fugenmassen in verschiedenen Farben und Ausf\u00fchrungen. Von fein bis grob, wir haben alles, was Sie f\u00fcr Ihre Fliesenarbeiten ben\u00f6tigen. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl und bestellen Sie noch heute Ihre neue Fugenmasse."
+            "text": "<a href=\"/kategorie/fugenmassen/\" title=\"Fugenmassen\">Fugenmassen</a> - das i-Tüpfelchen für Ihre Fliesen. In unserem Online-Shop finden Sie eine große Auswahl an hochwertigen Fugenmassen in verschiedenen Farben und Ausführungen. Von fein bis grob, wir haben alles, was Sie für Ihre Fliesenarbeiten benötigen. Überzeugen Sie sich selbst von unserer großen Auswahl und bestellen Sie noch heute Ihre neue Fugenmasse."
           },
           {
-            "title": "Weiteres Fliesenzubeh\u00f6r",
-            "text": "Entdecken Sie bei Fliesen-Zubeh\u00f6r24 das breite Angebot an weiterem Fliesenzubeh\u00f6r. Von praktischen Fliesen-Clips \u00fcber Schienen und Profile bis hin zu Reinigungs- und Pflegeprodukten finden Sie hier alles, was Sie f\u00fcr Ihr Bauprojekt ben\u00f6tigen. Unsere hochwertigen Produkte sorgen f\u00fcr eine lange Haltbarkeit und eine professionelle Verarbeitung Ihrer Fliesen. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl an weiterem Fliesenzubeh\u00f6r."
+            "title": "Weiteres Fliesenzubehör",
+            "text": "Entdecken Sie bei Fliesen-Zubehör24 das breite Angebot an weiterem Fliesenzubehör. Von praktischen Fliesen-Clips über Schienen und Profile bis hin zu Reinigungs- und Pflegeprodukten finden Sie hier alles, was Sie für Ihr Bauprojekt benötigen. Unsere hochwertigen Produkte sorgen für eine lange Haltbarkeit und eine professionelle Verarbeitung Ihrer Fliesen. Überzeugen Sie sich selbst von unserer großen Auswahl an weiterem Fliesenzubehör."
           },
           {
             "title": "Fliesenschienen",
-            "text": "Verleihen Sie Ihren Fliesen eine perfekte Optik mit den hochwertigen <a href=\"/kategorie/fliesenschienen/\" title=\"Fliesenschienen\">Fliesenschienen</a> von Fliesen-Zubeh\u00f6r24. Ob f\u00fcr Wand- oder Bodenfliesen, wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Schienen-Modellen in verschiedenen Farben und Materialien. Unsere Fliesenschienen sind einfach zu verarbeiten und garantieren einen perfekten Abschluss Ihrer Fliesen. \u00dcberzeugen Sie sich jetzt von unserem umfangreichen Angebot an Fliesenschienen."
+            "text": "Verleihen Sie Ihren Fliesen eine perfekte Optik mit den hochwertigen <a href=\"/kategorie/fliesenschienen/\" title=\"Fliesenschienen\">Fliesenschienen</a> von Fliesen-Zubehör24. Ob für Wand- oder Bodenfliesen, wir bieten Ihnen eine große Auswahl an verschiedenen Schienen-Modellen in verschiedenen Farben und Materialien. Unsere Fliesenschienen sind einfach zu verarbeiten und garantieren einen perfekten Abschluss Ihrer Fliesen. Überzeugen Sie sich jetzt von unserem umfangreichen Angebot an Fliesenschienen."
           }
         ]
       }
     },
     "shop": {
-      "title": "Ihr Shop f\u00fcr Fliesenzubeh\u00f6r",
-      "metaDescription": "In unserem Shop Fliesenzubeh\u00f6r f\u00fcr jeden Arbeitsschritt! | Fliesenkleber, Silikon, Fugenmassen uvm. | Einfache Produktsuche | G\u00fcnstige Preise",
+      "title": "Ihr Shop für Fliesenzubehör",
+      "metaDescription": "In unserem Shop Fliesenzubehör für jeden Arbeitsschritt! | Fliesenkleber, Silikon, Fugenmassen uvm. | Einfache Produktsuche | Günstige Preise",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Fliesenzubeh\u00f6r - Die besten Marken ",
-      "metaDescription": "Top Herstller f\u00fcr Fliesenzubeh\u00f6r bei uns im Shop! | Knauf, Pattex, Lugato, Metylan, Molto, Sista uvm. | \u00dcberzeugen Sie sich von der Qualit\u00e4t unserer Produkte!",
+      "title": "Fliesenzubehör - Die besten Marken ",
+      "metaDescription": "Top Herstller für Fliesenzubehör bei uns im Shop! | Knauf, Pattex, Lugato, Metylan, Molto, Sista uvm. | Überzeugen Sie sich von der Qualität unserer Produkte!",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT | Fliesenzubeh\u00f6r",
-    "defaultMetaDescription": "$PRODUKT von der Marke $HERSTELLER | Bei uns erh\u00e4tlich | G\u00fcnstige Preise | Finden Sie weitere hochwertige Produkte aus der Kategorie $KATEGORIE.",
+    "defaultTitle": "$PRODUKT | Fliesenzubehör",
+    "defaultMetaDescription": "$PRODUKT von der Marke $HERSTELLER | Bei uns erhätlich | Günstige Preise | Finden Sie weitere hochwertige Produkte aus der Kategorie $KATEGORIE.",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "1892835",
+        "seo": {
+          "texts": [
+            {
+              "title": "Knauf Sanitär-Silikon Anemone 300 ml",
+              "text": "<p class=\"justify\">Das Knauf Sanitär-Silikon Anemone 300 ml ist ein Hochleistungs-Silikon, das speziell für den Sanitärbereich entwickelt wurde. Es eignet sich hervorragend für das dauerelastische Verfugen von Eck-, Anschluss- und Wartungsfugen in Verbindung mit glasierten und unglasierten Keramikfliesen, Glas, vielen Kunststoffen und Beschichtungen. Das Silikon kann sowohl im Innen- als auch im Außenbereich eingesetzt werden und ist insbesondere für den Einsatz in Badezimmern und Duschen geeignet.</p><p class=\"justify\">Dank der verbesserten Rezeptur des Knauf Sanitär-Silikons Anemone kommt es im Badezimmer nicht mehr zu Vergilbungen. Das Produkt verfügt über eine 5-jährige Schimmel-Schutz-Garantie und bietet hervorragende Haftung auf glasierten und unglasierten Keramikfliesen, Glas, vielen Kunststoffen und Beschichtungen. Die Verarbeitungseigenschaften des Silikons sind ebenfalls ausgezeichnet: Es ist standfest und leicht zu glätten. Das Silikon vernetzt schnell und erreicht rasch einen klebefreien Zustand.</p><p class=\"justify\">Die hohe Alterungsbeständigkeit sorgt dafür, dass das Knauf Sanitär-Silikon Anemone 300 ml auch nach längerer Zeit seine Eigenschaften behält und keine Grundierung auf den meisten Untergründen benötigt wird. Mit einem Preis von 12,79 Euro und hervorragenden Bewertungen von Kunden ist das Knauf Sanitär-Silikon Anemone 300 ml eine ausgezeichnete Wahl für alle, die auf der Suche nach einem qualitativ hochwertigen Silikon für den Sanitärbereich sind.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8215519",
+        "seo": {
+          "texts": [
+            {
+              "title": "OBI Bau-Silikon Transparent 310 ml: Die ideale Lösung für dauerelastische Abdichtungen",
+              "text": "<p class=\"justify\">Das OBI Bau-Silikon Transparent 310 ml ist ein hochwertiges Produkt der Marke OBI, das sich perfekt für dauerelastische Abdichtungen im Innen- und Außenbereich eignet. Mit seiner transparenten Farbgebung fügt es sich nahtlos in die Umgebung ein und bietet eine professionelle Lösung für die unterschiedlichsten Anwendungsbereiche.</p><p class=\"justify\">Die Anwendungsmöglichkeiten des OBI Bau-Silikons sind vielfältig. Es kann beispielsweise zur Abdichtung von Terrassen, Balkonen, Fensterrahmen und Mauerwerk verwendet werden. Dank seiner hohen Elastizität und Haftstärke sowie seiner Witterungsbeständigkeit bietet das Silikon langanhaltende und zuverlässige Ergebnisse. Der neutrale Vernetzungstyp sorgt zudem dafür, dass das Material selbst bei starken Temperaturschwankungen jederzeit flexibel bleibt und seine Form beibehält.</p><p class=\"justify\">Neben den erwähnten Einsatzgebieten in Terrasse und Balkon, eignet sich das OBI Bau-Silikon Transparent 310 ml auch hervorragend für den Einsatz im Bereich Fliesenzubehör oder bei anderen Bauarbeiten. Die einfache Handhabung und Verarbeitung ermöglichen auch Heimwerkern die professionelle Abdichtung von Fugen, Rissen und anderen Problemstellen.</p><p class=\"justify\">Das OBI Bau-Silikon Transparent 310 ml hat sich bereits bei zahlreichen Anwendern bewährt und konnte durch seine Qualität und Langlebigkeit überzeugen, was auch an der hohen Anzahl von 5-Sterne-Bewertungen erkennbar ist. Mit der ergiebigen Menge von 310 ml entspricht das Produkt auch höheren Ansprüchen und Bedürfnissen bei umfangreicheren Projekten. </p><p class=\"justify\">Zusammenfassend bietet das OBI Bau-Silikon Transparent 310 ml eine perfekte Lösung für all jene, die nach einer dauerelastischen und äußerst zuverlässigen Abdichtungsmöglichkeit suchen. Die vielseitige Anwendbarkeit, die Langlebigkeit und die hohe Qualität machen das Silikon zu einem unverzichtbaren Bestandteil in jedem Heimwerkerbedarf.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8216103",
+        "seo": {
+          "texts": [
+            {
+              "title": "OBI Montagekleber 470 g - Vielseitiger und leistungsstarker Klebstoff",
+              "text": "<p class=\"justify\">Der OBI Montagekleber 470 g ist ein hochwertiger, lösemittelfreier Dispersionskleber, der sich perfekt für haftstarke Verklebungen im Innenbereich eignet. Mit seiner hohen Klebkraft und Vielseitigkeit ist dieser Montagekleber eine ausgezeichnete Wahl für Heimwerker und Fachleute gleichermaßen. Das Produkt stammt von der renommierten Marke OBI und gewährleistet somit eine erstklassige Qualität und Zuverlässigkeit.</p><p class=\"justify\">Obwohl der OBI Montagekleber 470 g in der Kategorie \"Silikon & Acryl\" gelistet ist, unterscheidet er sich von herkömmlichen Silikon und Acrylklebstoffen durch seine lösemittelfreie Zusammensetzung. Dadurch ist er umweltfreundlicher und sicherer in der Anwendung. Der Montagekleber eignet sich hervorragend für haftstarke Verklebungen verschiedener Materialien wie Holz, Metall, Kunststoff und sogar Styropor - eine Eigenschaft, die nicht viele Klebstoffe bieten.</p><p class=\"justify\">Der OBI Montagekleber 470 g ist einfach in der Handhabung und zeichnet sich durch seine hervorragende Haftung auch auf schwierigen Oberflächen aus. Er hat eine ausgezeichnete Kundenbewertung von 5 Sternen (basierend auf 138 Bewertungen), was seine Zuverlässigkeit und Kundenzufriedenheit unterstreicht. Mit einem Preis von 7,99 Euro bietet dieser Montagekleber ein exzellentes Preis-Leistungs-Verhältnis für Heimwerker und Profis gleichermaßen.</p><p class=\"justify\">Insgesamt ist der OBI Montagekleber 470 g eine vielseitige und leistungsstarke Wahl für verschiedene Anwendungen im Innenbereich. Seine lösemittelfreie Zusammensetzung, hohe Haftkraft und breites Anwendungsspektrum machen ihn zu einem unverzichtbaren Werkzeug für jeden Heimwerker und Profi. Entscheiden Sie sich für den OBI Montagekleber 470 g und erleben Sie die erstklassige Leistung und Qualität, die dieser Klebstoff zu bieten hat.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE - eine gro\u00dfe Auswahl",
-    "defaultMetaDescription": "Fliesenzubeh\u00f6r f\u00fcr jeden Arbeitsschritt! | Finden Sie hochwertige Produkte aus der Kategorie $KATEGORIE bei uns im Shop!",
+    "defaultTitle": "$KATEGORIE - eine große Auswahl",
+    "defaultMetaDescription": "Fliesenzubehör für jeden Arbeitsschritt! | Finden Sie hochwertige Produkte aus der Kategorie $KATEGORIE bei uns im Shop!",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -118,8 +151,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -136,16 +169,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Die Marke steht f\u00fcr Qualit\u00e4t ",
-    "defaultMetaDescription": "$HERSTELLER ist Spezialist f\u00fcr Fliesenzubeh\u00f6r. Finden Sie viele hochwertige Produkte in unserem Shop! | Kaufen Sie g\u00fcnstig | Schnelle Lieferung",
+    "defaultTitle": "$HERSTELLER - Die Marke steht für Qualität ",
+    "defaultMetaDescription": "$HERSTELLER ist Spezialist für Fliesenzubehör. Finden Sie viele hochwertige Produkte in unserem Shop! | Kaufen Sie günstig | Schnelle Lieferung",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
@@ -155,19 +188,19 @@
     {
       "title": "Start",
       "linkTo": "/",
-      "linkTitle": "Fliesenzubeh\u00f6r",
+      "linkTitle": "Fliesenzubehör",
       "publish": true
     },
     {
       "title": "Shop",
       "linkTo": "/shop/",
-      "linkTitle": "Fliesenzubeh\u00f6r Shop",
+      "linkTitle": "Fliesenzubehör Shop",
       "publish": true
     },
     {
       "title": "Marken",
       "linkTo": "/marken/",
-      "linkTitle": "Fliesenzubeh\u00f6r Marken",
+      "linkTitle": "Fliesenzubehör Marken",
       "publish": true
     },
     {
